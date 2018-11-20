@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1075519670620",
+    "firebase_url": "https://phms-434d5.firebaseio.com",
+    "project_id": "phms-434d5",
+    "storage_bucket": "phms-434d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075519670620:android:fd4678e1f45eccd4",
+        "android_client_info": {
+          "package_name": "com.example.indrabhurtel.first_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075519670620-dlc18121e3fsrdq5jb1ppntg90g9j7f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.indrabhurtel.first_screen",
+            "certificate_hash": "6d85f1271ae7991a95d6484779e9808bc4ac4730"
+          }
+        },
+        {
+          "client_id": "1075519670620-7p7jsqcts5k9f8udtv2vbckla35h5sbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASS6gtEVY7VNTvwklLbN1JDVO3-qtcdW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075519670620-7p7jsqcts5k9f8udtv2vbckla35h5sbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
